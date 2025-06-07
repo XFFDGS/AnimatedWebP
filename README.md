@@ -1,7 +1,7 @@
 # AnimatedWebP（WebP动图制作器）
 A tool that can generate WebP and APNG animated images, empowering creative designers and developers.  一款可以生成webp和apng动图的工具，助力有创意的设计师和开发人员
 
-## 捐助我
+## 捐助我（Donation）
 Your donation helps me further optimize the product.  您的捐助有助于我进一步优化产品。
 ### Paypal
 https://paypal.me/xffdgs
